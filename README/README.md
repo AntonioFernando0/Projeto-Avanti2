@@ -11,7 +11,7 @@ Projeto desenvolvido para empresa Avanti como teste t√©cnico para a vaga de est√
 
 - 
 
-![Print do projeto](imagem/foto1.png)
+![Print do projeto](foto1.png)
 
 
 
